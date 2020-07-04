@@ -1,0 +1,116 @@
+
+Usuario -> exajibl
+IP -> 10.4.9.65
+Direccion fisica -> DC-4A-3E-6A-F5-70 
+
+
+*************** LIBRERIAS A INSTALAR PYTHON: **************
+
+import sqlite3 existe!!
+
+
+cd C:\Users\exajibl\Documents\BCI\scripts
+"C:\Program Files (x86)\Python38-32\python.exe"
+
+"C:\Program Files (x86)\Python38-32\Scripts" pip install 
+
+
+
+pip freeze
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas --user
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org sql_metadata --user
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org teradatasql --user
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org teradatasqlalchemy --user
+
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pycryptodome --user
+
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org giraffez --user
+
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org patool --user
+
+
+
+pip3 install --proxy=http://exajibl:banco.001@172.16.31.13 patool
+
+
+!pip install --proxy=http://exajibl:banco.001@172.16.31.13 patool
+
+pip --proxy http://exajibl:banco.001@172.16.31.13 install patool
+
+
+pip install patool --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --proxy=http://exajibl:banco.001@172.16.31.13
+
+
+
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64
+
+
+SET VSINSTALLDIR=C:\Program Files (x86)\Microsoft Visual Studio\2019
+
+SET VCToolsInstallDir=C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314
+
+set CL=-FI"%VCINSTALLDIR%\include\stdint.h"
+
+set CL=-FI"%VCToolsInstallDir%\include\stdint.h"
+
+
+set PATH=C:\Program Files (x86)\Python38-32;%PATH%;
+set PATH=C:\Program Files (x86)\Python38-32\Scripts;%PATH%;
+
+
+
+set PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64;%PATH%;
+
+set PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314\include;%PATH%;
+
+
+set PATH=C:\Program Files (x86)\Python38-32\Scripts;C:\Program Files (x86)\Python38-32;%PATH%;
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org C:\Users\exajibl\Downloads\Twisted-19.10.0-cp38-cp38-win_amd64.whl --user
+
+
+windows-build-tools
+
+
+
+***************** CREDENCIALES: *********************
+
+
+exajibl
+W53kP0sz40 - Bci.0002
+
+adriana.jimenez@externos.bci.cl
+adrianajimenezbci2020
+
+
+
+Teradata (161.131.9.15)
+Teradata: 
+exajibl
+acjb0610
+
+pame.457569
+Bci.2020
+
+
+Jupyter BCI:
+http://172.16.31.13/ 
+exajibl / banco.001
+
+
+8392 climatizacion mesa de ayuda alcantara
+
+
+
+
+
+
+
+
+
+
