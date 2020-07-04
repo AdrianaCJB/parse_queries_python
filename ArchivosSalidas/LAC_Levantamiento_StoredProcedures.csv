@@ -1,0 +1,1181 @@
+TIPO_ARCHIVO|ARCHIVO|NUMERO_PASO|SENTENCIA_DML|ESQUEMA_OUTPUT|TABLA_OUTPUT|ESQUEMA_INPUT|TABLA_INPUT
+StoredProcedures|SQLAExport_Sp.txt|1|DROP|ARMCORE|AR_AA_MODEL_TRAINING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|2|DROP|ARMCORE|AR_AA_TRAINING_SCORE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|3|DROP|ARMCORE|AR_AA_TRAINING_VARIABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|4|DROP|ARMCORE|AR_AA_VARIABLE_CATEGORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|5|DROP|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|6|DROP|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|7|DROP|ARMCORE|AR_BTA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|8|DROP|ARMCORE|AR_CHANNEL_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|9|DROP|ARMCORE|AR_CHANNEL_RESPONSE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|10|DROP|ARMCORE|AR_COLLATERAL_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|11|DROP|ARMCORE|AR_COMMUNICATION_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|12|DROP|ARMCORE|AR_CONTACT_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|13|DROP|ARMCORE|AR_CSA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|14|DROP|ARMCORE|AR_CSA_RUN_RESULT_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|15|DROP|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|16|DROP|ARMCORE|AR_DELIVERY_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|17|DROP|ARMCORE|AR_INBOUND_COLLECTOR_REJECT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|18|DROP|ARMCORE|AR_JOB|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|19|DROP|ARMCORE|AR_JOB_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|20|DROP|ARMCORE|AR_LEAD_EVENT_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|21|DROP|ARMCORE|AR_LEAD_KEY_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|22|DROP|ARMCORE|AR_LEAD_STATUS_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|23|DROP|ARMCORE|AR_LOGICAL_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|24|DROP|ARMCORE|AR_MASTER_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|25|DROP|ARMCORE|AR_PP_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|26|DROP|ARMCORE|AR_REALIZED_LEAD|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|27|DROP|ARMCORE|AR_RESPONSE_REQUEST|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|28|DROP|ARMCORE|AR_RULE_PARAMETER_VALUE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|29|DROP|ARMCORE|AR_RULE_QUERY_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|30|DROP|ARMCORE|AR_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|31|DROP|ARMCORE|AR_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|32|DROP|ARMCORE|AR_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|33|DROP|ARMCORE|AR_RUN_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|34|DROP|ARMCORE|AR_SA_RUN_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|35|DROP|ARMCORE|AR_SCHEMA_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|36|DROP|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|37|DROP|ARMCORE|AR_SEGMENT_DATA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|38|DROP|ARMCORE|AR_SEGMENT_HEADER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|39|DROP|ARMCORE|AR_SEGMENT_LEAF|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|40|DROP|ARMCORE|AR_SEGMENT_PLAN_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|41|DROP|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|42|DROP|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|43|DROP|ARMCORE|AR_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|44|DROP|ARMCORE|AR_SEGMENT_SELECTION_VARIABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|45|DROP|ARMCORE|AR_TEXT_STORAGE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|46|DROP|ARMCORE|AR_TEXT_STORAGE_DATA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|47|DROP|ARMCORE|AR_UNREALIZED_COLLATERAL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|48|DROP|ARMCORE|AR_XDS_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|49|DROP|ARMCORE|AR_XDS_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|50|DROP|ARMCORE|CA_COMMUNICATION|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|51|DROP|ARMCORE|CA_COMPONENT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|52|DROP|ARMCORE|CA_COMPONENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|53|DROP|ARMCORE|CA_PRIMARY_INDEX|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|54|DROP|ARMCORE|CA_SCHEMA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|55|DROP|ARMCORE|CA_SEGMENT_HEADER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|56|DROP|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|57|DROP|ARMCORE|CAL_DIA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|58|DROP|ARMCORE|CREA_USU|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|59|DROP|ARMCUST|AR_CHANNEL_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|60|DROP|ARMCUST|AR_CHANNEL_RESPONSE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|61|DROP|ARMCUST|AR_COLLATERAL_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|62|DROP|ARMCUST|AR_CONTACT_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|63|DROP|ARMCUST|AR_DELIVERY_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|64|DROP|ARMCUST|AR_INBOUND_COLLECTOR_REJECT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|65|DROP|ARMCUST|AR_LEAD_EVENT_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|66|DROP|ARMCUST|AR_LEAD_KEY_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|67|DROP|ARMCUST|AR_LEAD_STATUS_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|68|DROP|ARMCUST|AR_MASTER_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|69|DROP|ARMCUST|AR_REALIZED_LEAD|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|70|DROP|ARMCUST|AR_RESPONSE_REQUEST|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|71|DROP|ARMCUST|AR_RUN_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|72|DROP|ARMCUST|AR_SEGMENT_DATA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|73|DROP|ARMCUST|AR_SEGMENT_HEADER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|74|DROP|ARMCUST|AR_SEGMENT_LEAF|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|75|DROP|ARMCUST|AR_SEGMENT_SELECTION_VARIABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|76|DROP|ARMCUST|AR_UNREALIZED_COLLATERAL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp.txt|77|DROP|ARMCUST|AR_RT_SCORE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp10.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp10.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp10.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp11.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp11.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp11.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp12.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp12.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp12.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp13.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp13.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp13.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp14.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp14.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp14.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp14.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|CSP_STRUCTURE_CLAUSE
+StoredProcedures|SQLAExport_Sp14.txt|2|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp14.txt|2|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp14.txt|2|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp14.txt|2|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|CSP_STRUCTURE_CLAUSE
+StoredProcedures|SQLAExport_Sp14.txt|3|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp14.txt|3|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp14.txt|3|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp14.txt|3|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|CSP_STRUCTURE_CLAUSE
+StoredProcedures|SQLAExport_Sp14.txt|4|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp14.txt|4|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp14.txt|4|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp15.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp15.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp15.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp16.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp16.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp16.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp17.txt|1|UPDATE|ARMCORE|CSP_STRUCTURE_CLAUSE|ARMCORE|CSP_STRUCTURE_CLAUSE
+StoredProcedures|SQLAExport_Sp18.txt|1|INSERT|ARMCORE|CSP_LOG_TABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|1|CREATE TABLE|ARMCORE|CA_COMMUNICATION|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|2|CREATE TABLE|ARMCORE|CA_COMPONENT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|3|CREATE TABLE|ARMCORE|CA_COMPONENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|4|CREATE TABLE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|5|CREATE TABLE|ARMCORE|CA_SCHEMA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|6|CREATE TABLE|ARMCORE|CA_SEGMENT_HEADER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|7|CREATE TABLE|ARMCORE|CA_PRIMARY_INDEX|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|8|CREATE TABLE|ARMCORE|AR_JOB|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|9|CREATE TABLE|ARMCORE|AR_JOB_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|10|CREATE TABLE|ARMCORE|AR_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|11|CREATE TABLE|ARMCORE|AR_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|12|CREATE TABLE|ARMCORE|AR_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|13|CREATE TABLE|ARMCORE|AR_SCHEMA_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|14|CREATE TABLE|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|15|CREATE TABLE|ARMCORE|AR_TEXT_STORAGE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|16|CREATE TABLE|ARMCORE|AR_TEXT_STORAGE_DATA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|17|CREATE TABLE|ARMCORE|AR_LOGICAL_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|18|CREATE TABLE|ARMCORE|AR_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|19|CREATE TABLE|ARMCORE|AR_SEGMENT_PLAN_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|20|CREATE TABLE|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|21|CREATE TABLE|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|22|CREATE TABLE|ARMCORE|AR_RULE_QUERY_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|23|CREATE TABLE|ARMCORE|AR_RULE_PARAMETER_VALUE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|24|CREATE TABLE|ARMCORE|AR_COMMUNICATION_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|25|CREATE TABLE|ARMCORE|AR_XDS_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|26|CREATE TABLE|ARMCORE|AR_XDS_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|27|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|28|CREATE TABLE|ARMCORE|AR_BTA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|29|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|30|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|31|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|32|CREATE TABLE|ARMCORE|AR_PP_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|33|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|34|CREATE TABLE|ARMCORE|AR_AA_TRAINING_SCORE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|35|CREATE TABLE|ARMCORE|AR_AA_MODEL_TRAINING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|36|CREATE TABLE|ARMCORE|AR_AA_TRAINING_VARIABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|37|CREATE TABLE|ARMCORE|AR_AA_VARIABLE_CATEGORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp2.txt|38|CREATE TABLE|ARMCORE|AR_SA_RUN_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp28.txt|1|INSERT|ARMCORE|CIM_COMMQRYLOG|DBC|DBQLOGTBL
+StoredProcedures|SQLAExport_Sp28.txt|1|INSERT|ARMCORE|CIM_COMMQRYLOG|DBC|DBQLSQLTBL
+StoredProcedures|SQLAExport_Sp28.txt|2|INSERT|ARMCORE|CIM_CONSUMO_QUERY|DBC|DBQLOGTBL
+StoredProcedures|SQLAExport_Sp28.txt|2|INSERT|ARMCORE|CIM_CONSUMO_QUERY|DBC|DBQLSQLTBL
+StoredProcedures|SQLAExport_Sp28.txt|2|INSERT|ARMCORE|CIM_CONSUMO_QUERY|ARMCORE|CR_JOB_HISTORY
+StoredProcedures|SQLAExport_Sp28.txt|2|INSERT|ARMCORE|CIM_CONSUMO_QUERY|ARMCORE|CM_CONFIG_COMMUNICATION
+StoredProcedures|SQLAExport_Sp28.txt|2|INSERT|ARMCORE|CIM_CONSUMO_QUERY|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp29.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp29.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp29.txt|2|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCORE|CR_EXECUTION_SCHEDULE
+StoredProcedures|SQLAExport_Sp29.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|SYS_CALENDAR|CALENDAR
+StoredProcedures|SQLAExport_Sp29.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCORE|CR_SETTING_PARAMETER
+StoredProcedures|SQLAExport_Sp29.txt|4|INSERT|ARMCORE|CR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp29.txt|5|UPDATE|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp3.txt|1|INSERT|ARMCORE|MD_SETTING|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|2|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|3|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|4|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|5|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|6|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|7|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|8|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|9|DELETE|ARMCORE|CA_PRIMARY_INDEX|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|10|DELETE|ARMCORE|CA_COMPONENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|14|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|15|DELETE|ARMCORE|AR_SEGMENT_PLAN_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|16|INSERT|ARMCORE|AR_SEGMENT_PLAN_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|16|INSERT|ARMCORE|AR_SEGMENT_PLAN_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|17|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|17|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|AR_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|18|DELETE|ARMCORE|AR_SCHEMA_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|19|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|19|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|20|DELETE|ARMCORE|AR_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|21|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|21|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|22|DELETE|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|23|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|23|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|24|DELETE|ARMCORE|AR_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|25|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|25|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|26|DELETE|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|27|INSERT|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|ARMCORE|SM_SEGMENT_PLAN_STORE_LIMIT
+StoredProcedures|SQLAExport_Sp3.txt|27|INSERT|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|28|DELETE|ARMCORE|SM_SEGMENT_PLAN_RUN|ARMCORE|AR_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|29|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|29|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|30|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|30|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|31|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|AR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|31|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|32|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|AR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|32|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|33|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|33|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|34|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|AR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|34|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|35|DELETE|ARMCORE|SM_SEGMENT_PLAN_STORE_LIMIT|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT
+StoredProcedures|SQLAExport_Sp3.txt|36|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|37|DELETE|ARMCORE|AR_LOGICAL_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|38|INSERT|ARMCORE|AR_LOGICAL_SEGMENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|38|INSERT|ARMCORE|AR_LOGICAL_SEGMENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|38|INSERT|ARMCORE|AR_LOGICAL_SEGMENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|39|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|39|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|AR_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|40|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|40|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|41|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|41|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|42|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|42|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|43|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|43|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|44|DELETE|ARMCORE|AR_TEXT_STORAGE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|45|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp3.txt|45|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|46|DELETE|ARMCORE|AR_TEXT_STORAGE_DATA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|47|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CR_TEXT_STORAGE_DATA
+StoredProcedures|SQLAExport_Sp3.txt|47|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|48|DELETE|ARMCORE|SM_LOGICAL_SEGMENT_RUN|ARMCORE|AR_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|49|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|49|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|50|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|50|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|51|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|AR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|51|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|52|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|AR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|52|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|53|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|53|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|54|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|AR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|54|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|55|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|56|DELETE|ARMCORE|AR_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|57|INSERT|ARMCORE|AR_SEGMENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|57|INSERT|ARMCORE|AR_SEGMENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|58|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|58|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|AR_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|59|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|59|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|60|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|60|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|61|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|61|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|62|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|62|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|63|DELETE|ARMCORE|SM_SEGMENT_RUN|ARMCORE|AR_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|64|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|64|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|65|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|65|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|66|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|AR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|66|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|67|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|AR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|67|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|68|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|68|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|69|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|AR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp3.txt|69|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp3.txt|70|DELETE|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|71|INSERT|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|ARMCORE|RT_SEGMENT_PLAN_TABLE_TRACKER
+StoredProcedures|SQLAExport_Sp3.txt|71|INSERT|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|ARMCORE|AR_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp3.txt|72|DELETE|ARMCORE|RT_SEGMENT_PLAN_TABLE_TRACKER|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER
+StoredProcedures|SQLAExport_Sp3.txt|73|INSERT|ARMCORE|CA_PRIMARY_INDEX|DBC|INDICES
+StoredProcedures|SQLAExport_Sp3.txt|73|INSERT|ARMCORE|CA_PRIMARY_INDEX|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|73|INSERT|ARMCORE|CA_PRIMARY_INDEX|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|74|UPDATE|ARMCORE|CA_PRIMARY_INDEX|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|75|DELETE|ARMCORE|CA_PRIMARY_INDEX|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|76|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|76|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|76|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|77|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|77|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|78|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|78|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|78|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|79|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|79|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|80|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|80|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|80|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|81|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|81|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|82|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|82|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|82|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|83|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|83|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|84|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|84|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|84|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|85|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|85|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|86|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|86|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|90|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|90|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|90|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|93|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|93|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|93|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|101|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|101|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|102|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|102|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|102|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|103|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|103|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|104|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|104|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|104|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|105|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|105|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|105|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|106|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|106|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|106|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|107|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|107|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|107|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|108|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|108|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|108|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|109|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|109|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|109|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|110|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|110|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|110|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|111|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|111|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|111|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|112|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|112|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|112|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|113|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|113|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|113|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|114|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|114|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|114|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|115|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|116|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|116|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|116|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|117|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|117|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|117|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|118|DELETE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|119|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|RT_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp3.txt|119|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|119|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|120|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp3.txt|120|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp3.txt|121|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CR_TEXT_STORAGE_DATA
+StoredProcedures|SQLAExport_Sp3.txt|121|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp3.txt|122|DELETE|ARMCORE|AR_BTA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|123|INSERT|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|RT_BTA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|123|INSERT|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|123|INSERT|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|124|DELETE|ARMCORE|AR_CSA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|125|INSERT|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|RT_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|125|INSERT|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|125|INSERT|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|126|DELETE|ARMCORE|AR_CSA_RUN_RESULT_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|127|INSERT|ARMCORE|AR_CSA_RUN_RESULT_COUNT|ARMCORE|RT_CSA_RUN_RESULT_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|127|INSERT|ARMCORE|AR_CSA_RUN_RESULT_COUNT|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|128|DELETE|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|129|INSERT|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|ARMCORE|RT_CSA_RUN_RESULT_TOTAL
+StoredProcedures|SQLAExport_Sp3.txt|129|INSERT|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|130|DELETE|ARMCORE|AR_PP_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|131|INSERT|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|RT_PP_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|131|INSERT|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|131|INSERT|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|132|DELETE|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|133|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|AD_ANALYSIS_RESULT_SUBMIT
+StoredProcedures|SQLAExport_Sp3.txt|133|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp3.txt|133|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|134|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|135|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|136|DELETE|ARMCORE|RT_ANALYSIS_RESULT_SUMMARY|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp3.txt|137|DELETE|ARMCORE|RT_BTA_RUN_RESULT|ARMCORE|AR_BTA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|138|DELETE|ARMCORE|RT_CSA_RUN_RESULT|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|139|DELETE|ARMCORE|RT_CSA_RUN_RESULT_COUNT|ARMCORE|AR_CSA_RUN_RESULT_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|140|DELETE|ARMCORE|RT_CSA_RUN_RESULT_TOTAL|ARMCORE|AR_CSA_RUN_RESULT_TOTAL
+StoredProcedures|SQLAExport_Sp3.txt|141|DELETE|ARMCORE|RT_PP_RUN_RESULT|ARMCORE|AR_PP_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|142|DELETE|ARMCORE|AD_ANALYSIS_RESULT_SUBMIT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT
+StoredProcedures|SQLAExport_Sp3.txt|143|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|144|DELETE|ARMCORE|AR_AA_TRAINING_SCORE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|145|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp3.txt|145|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|145|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|SM_SCHEMA_ELEMENT_VALUE
+StoredProcedures|SQLAExport_Sp3.txt|145|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|MD_SCHEMA_ELEMENT
+StoredProcedures|SQLAExport_Sp3.txt|146|DELETE|ARMCORE|AR_AA_MODEL_TRAINING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|147|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp3.txt|147|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|147|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|SM_SCHEMA_ELEMENT_VALUE
+StoredProcedures|SQLAExport_Sp3.txt|147|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|MD_SCHEMA_ELEMENT
+StoredProcedures|SQLAExport_Sp3.txt|147|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp3.txt|147|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AR_AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp3.txt|148|DELETE|ARMCORE|AR_AA_TRAINING_VARIABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|149|INSERT|ARMCORE|AR_AA_TRAINING_VARIABLE|ARMCORE|AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp3.txt|149|INSERT|ARMCORE|AR_AA_TRAINING_VARIABLE|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp3.txt|150|DELETE|ARMCORE|AR_AA_VARIABLE_CATEGORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|151|INSERT|ARMCORE|AR_AA_VARIABLE_CATEGORY|ARMCORE|AA_VARIABLE_CATEGORY
+StoredProcedures|SQLAExport_Sp3.txt|151|INSERT|ARMCORE|AR_AA_VARIABLE_CATEGORY|ARMCORE|AR_AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp3.txt|152|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|152|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|152|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp3.txt|153|DELETE|ARMCORE|AA_TRAINING_SCORE|ARMCORE|AR_AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp3.txt|154|DELETE|ARMCORE|AA_MODEL_TRAINING|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp3.txt|155|DELETE|ARMCORE|AA_TRAINING_VARIABLE|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp3.txt|155|DELETE|ARMCORE|AA_TRAINING_VARIABLE|ARMCORE|AR_AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp3.txt|156|DELETE|ARMCORE|AA_VARIABLE_CATEGORY|ARMCORE|AR_AA_VARIABLE_CATEGORY
+StoredProcedures|SQLAExport_Sp3.txt|157|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|157|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|158|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|159|CREATE TABLE|ARMCORE|AR_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|160|DELETE|ARMCORE|AR_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|161|INSERT|ARMCORE|AR_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|161|INSERT|ARMCORE|AR_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|162|DELETE|ARMCORE|CR_RUN|ARMCORE|AR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|163|DELETE|ARMCORE|AR_JOB_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|164|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|CR_JOB_HISTORY
+StoredProcedures|SQLAExport_Sp3.txt|164|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|164|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|164|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp3.txt|165|DELETE|ARMCORE|CR_JOB_HISTORY|ARMCORE|AR_JOB_HISTORY
+StoredProcedures|SQLAExport_Sp3.txt|166|DELETE|ARMCORE|AR_JOB|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|167|INSERT|ARMCORE|AR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp3.txt|167|INSERT|ARMCORE|AR_JOB|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|167|INSERT|ARMCORE|AR_JOB|ARMCORE|CR_JOB_HISTORY
+StoredProcedures|SQLAExport_Sp3.txt|168|DELETE|ARMCORE|CR_JOB|ARMCORE|AR_JOB
+StoredProcedures|SQLAExport_Sp3.txt|169|DELETE|ARMCORE|AR_COMMUNICATION_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|170|INSERT|ARMCORE|AR_COMMUNICATION_SUMMARY|ARMCORE|RT_COMMUNICATION_SUMMARY
+StoredProcedures|SQLAExport_Sp3.txt|170|INSERT|ARMCORE|AR_COMMUNICATION_SUMMARY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|171|DELETE|ARMCORE|RT_COMMUNICATION_SUMMARY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|172|DELETE|ARMCORE|AR_RULE_QUERY_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|173|INSERT|ARMCORE|AR_RULE_QUERY_RUN_RESULT|ARMCORE|RT_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|173|INSERT|ARMCORE|AR_RULE_QUERY_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|173|INSERT|ARMCORE|AR_RULE_QUERY_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|174|DELETE|ARMCORE|RT_RULE_QUERY_RUN_RESULT|ARMCORE|AR_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|175|DELETE|ARMCORE|AR_RULE_PARAMETER_VALUE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|176|INSERT|ARMCORE|AR_RULE_PARAMETER_VALUE|ARMCORE|RM_RULE_PARAMETER_VALUE
+StoredProcedures|SQLAExport_Sp3.txt|176|INSERT|ARMCORE|AR_RULE_PARAMETER_VALUE|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|176|INSERT|ARMCORE|AR_RULE_PARAMETER_VALUE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp3.txt|177|DELETE|ARMCORE|RM_RULE_PARAMETER_VALUE|ARMCORE|AR_RULE_PARAMETER_VALUE
+StoredProcedures|SQLAExport_Sp3.txt|178|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp3.txt|178|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|AR_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|179|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CR_TEXT_STORAGE_DATA
+StoredProcedures|SQLAExport_Sp3.txt|179|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|AR_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp3.txt|180|DELETE|ARMCORE|AR_XDS_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|181|INSERT|ARMCORE|AR_XDS_RUN|ARMCORE|DS_XDS_RUN
+StoredProcedures|SQLAExport_Sp3.txt|181|INSERT|ARMCORE|AR_XDS_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|181|INSERT|ARMCORE|AR_XDS_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp3.txt|182|DELETE|ARMCORE|DS_XDS_RUN|ARMCORE|AR_XDS_RUN
+StoredProcedures|SQLAExport_Sp3.txt|183|DELETE|ARMCORE|AR_XDS_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp3.txt|184|INSERT|ARMCORE|AR_XDS_RUN_COUNT|ARMCORE|DS_XDS_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|184|INSERT|ARMCORE|AR_XDS_RUN_COUNT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|184|INSERT|ARMCORE|AR_XDS_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|185|DELETE|ARMCORE|DS_XDS_RUN_COUNT|ARMCORE|AR_XDS_RUN_COUNT
+StoredProcedures|SQLAExport_Sp3.txt|186|INSERT|ARMCORE|CA_SQL|DBC|TABLESV
+StoredProcedures|SQLAExport_Sp3.txt|186|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_XDS_END_NODE
+StoredProcedures|SQLAExport_Sp3.txt|186|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_XDS_TABLE_NODE
+StoredProcedures|SQLAExport_Sp3.txt|186|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_XDS_UPLOAD_FILE_NODE
+StoredProcedures|SQLAExport_Sp3.txt|186|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|187|INSERT|ARMCORE|CA_SQL|DBC|TABLESV
+StoredProcedures|SQLAExport_Sp3.txt|187|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|187|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp3.txt|188|INSERT|ARMCORE|CA_SQL|DBC|TABLESV
+StoredProcedures|SQLAExport_Sp3.txt|188|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp3.txt|188|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|188|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|189|DELETE|ARMCORE|CR_TEXT_STORAGE|ARMCORE|AR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp3.txt|190|DELETE|ARMCORE|CR_TEXT_STORAGE_DATA|ARMCORE|AR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp3.txt|191|DELETE|ARMCORE|RT_OUTPUT_HISTORY|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|192|DELETE|ARMCORE|RT_PACKAGE_COUNT|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|193|DELETE|ARMCORE|RT_COMMUNICATION|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|194|DELETE|ARMCORE|RT_COMMUNICATION_EVENT|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|195|DELETE|ARMCORE|RT_COMM_PLAN|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|196|DELETE|ARMCORE|RT_COMM_PLAN_SEGMENT|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|197|DELETE|ARMCORE|RT_STEP|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|198|DELETE|ARMCORE|RT_MESSAGE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp3.txt|199|DELETE|ARMCORE|RT_BTA_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp3.txt|200|DELETE|ARMCORE|RT_CSA_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp3.txt|201|DELETE|ARMCORE|RT_CSA_RUN_RESULT_COUNT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp3.txt|202|DELETE|ARMCORE|RT_CSA_RUN_RESULT_TOTAL|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp3.txt|203|DELETE|ARMCORE|RT_PP_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp3.txt|204|DELETE|ARMCORE|RT_PP_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp3.txt|205|DELETE|ARMCORE|RT_ANALYSIS_RESULT_SUMMARY|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp3.txt|206|DELETE|ARMCORE|DS_DATA_SOURCE_COLUMN|ARMCORE|DS_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp3.txt|207|DELETE|ARMCORE|DS_EXTERNAL_SOURCE|ARMCORE|DS_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp3.txt|208|DELETE|ARMCORE|DS_EXTERNAL_SOURCE_COLUMN|ARMCORE|DS_EXTERNAL_SOURCE
+StoredProcedures|SQLAExport_Sp3.txt|209|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|209|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|210|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|210|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp3.txt|211|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|212|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp3.txt|213|INSERT|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp30.txt|1|UPDATE|ARMCUST|CRM_AUTO_JOBID|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp30.txt|2|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp30.txt|3|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp30.txt|4|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp30.txt|4|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp30.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp30.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp30.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp30.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp30.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp30.txt|6|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp30.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp31.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp31.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp31.txt|2|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCORE|CR_EXECUTION_SCHEDULE
+StoredProcedures|SQLAExport_Sp31.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|SYS_CALENDAR|CALENDAR
+StoredProcedures|SQLAExport_Sp31.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCORE|CR_SETTING_PARAMETER
+StoredProcedures|SQLAExport_Sp31.txt|4|INSERT|ARMCORE|CR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp31.txt|5|UPDATE|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp32.txt|1|UPDATE|ARMCUST|CRM_AUTO_JOBID|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp32.txt|2|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp32.txt|3|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp32.txt|4|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp32.txt|4|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp32.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp32.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp32.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp32.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp32.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp32.txt|6|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp32.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp33.txt|1|UPDATE|ARMCUST|CRM_AUTO_JOBID|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp33.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp33.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp33.txt|3|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp33.txt|4|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp33.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp33.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp33.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp33.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp33.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp33.txt|6|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp33.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp34.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp34.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp34.txt|2|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCORE|CR_EXECUTION_SCHEDULE
+StoredProcedures|SQLAExport_Sp34.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|SYS_CALENDAR|CALENDAR
+StoredProcedures|SQLAExport_Sp34.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCORE|CR_SETTING_PARAMETER
+StoredProcedures|SQLAExport_Sp34.txt|4|INSERT|ARMCORE|CR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp34.txt|5|UPDATE|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp35.txt|1|UPDATE|ARMCUST|CRM_AUTO_JOBID|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp35.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp35.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp35.txt|3|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp35.txt|4|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp35.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp35.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp35.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp35.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp35.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp35.txt|6|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp35.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp36.txt|1|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp36.txt|2|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp36.txt|3|INSERT|ARMCORE|CR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp36.txt|4|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp36.txt|4|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp36.txt|5|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp36.txt|5|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp36.txt|5|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp36.txt|5|UPDATE|TGT|ARMCORE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp37.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp37.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp37.txt|2|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCORE|CR_EXECUTION_SCHEDULE
+StoredProcedures|SQLAExport_Sp37.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|SYS_CALENDAR|CALENDAR
+StoredProcedures|SQLAExport_Sp37.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCORE|CR_SETTING_PARAMETER
+StoredProcedures|SQLAExport_Sp37.txt|4|INSERT|ARMCORE|CR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp37.txt|5|UPDATE|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp38.txt|1|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp38.txt|2|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp38.txt|3|INSERT|ARMCORE|CR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp38.txt|4|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp38.txt|4|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp38.txt|5|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp38.txt|5|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp38.txt|5|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp38.txt|5|UPDATE|TGT|ARMCORE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp39.txt|1|UPDATE|ARMCUST|CRM_AUTO_JOBID|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp39.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp39.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp39.txt|3|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp39.txt|4|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp39.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp39.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp39.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp39.txt|6|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp39.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|DS_EXTENDED_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp4.txt|1|INSERT|ARMCORE|MD_SETTING|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|2|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|3|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|4|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|5|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|6|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|7|INSERT|ARMCORE|MD_SETTING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|8|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|9|DELETE|ARMCORE|CA_PRIMARY_INDEX|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|10|DELETE|ARMCORE|CA_COMPONENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|11|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|12|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|13|INSERT|ARMCORE|CA_COMPONENT_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|14|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|15|DELETE|ARMCORE|AR_SEGMENT_PLAN_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|16|INSERT|ARMCORE|AR_SEGMENT_PLAN_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|16|INSERT|ARMCORE|AR_SEGMENT_PLAN_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|17|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|17|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|AR_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|18|DELETE|ARMCORE|AR_SCHEMA_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|19|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|19|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|20|DELETE|ARMCORE|AR_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|21|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|21|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|22|DELETE|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|23|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|23|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|24|DELETE|ARMCORE|AR_RUN_COUNT_INSIGHT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|25|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|25|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|26|DELETE|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|27|INSERT|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|ARMCORE|SM_SEGMENT_PLAN_STORE_LIMIT
+StoredProcedures|SQLAExport_Sp4.txt|27|INSERT|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|28|DELETE|ARMCORE|SM_SEGMENT_PLAN_RUN|ARMCORE|AR_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|29|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|29|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|30|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|30|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|31|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|AR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|31|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|32|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|AR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|32|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|33|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|33|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|34|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|AR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|34|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|35|DELETE|ARMCORE|SM_SEGMENT_PLAN_STORE_LIMIT|ARMCORE|AR_SEGMENT_PLAN_STORE_LIMIT
+StoredProcedures|SQLAExport_Sp4.txt|36|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|37|DELETE|ARMCORE|AR_LOGICAL_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|38|INSERT|ARMCORE|AR_LOGICAL_SEGMENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|38|INSERT|ARMCORE|AR_LOGICAL_SEGMENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|38|INSERT|ARMCORE|AR_LOGICAL_SEGMENT_RUN|ARMCORE|SM_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|39|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|39|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|AR_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|40|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|40|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|41|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|41|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|42|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|42|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|43|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|43|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|44|DELETE|ARMCORE|AR_TEXT_STORAGE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|45|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp4.txt|45|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|46|DELETE|ARMCORE|AR_TEXT_STORAGE_DATA|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|47|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CR_TEXT_STORAGE_DATA
+StoredProcedures|SQLAExport_Sp4.txt|47|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|48|DELETE|ARMCORE|SM_LOGICAL_SEGMENT_RUN|ARMCORE|AR_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|49|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|49|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|50|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|50|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_LOGICAL_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|51|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|AR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|51|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|52|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|AR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|52|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|53|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|53|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|54|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|AR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|54|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|55|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|56|DELETE|ARMCORE|AR_SEGMENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|57|INSERT|ARMCORE|AR_SEGMENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|57|INSERT|ARMCORE|AR_SEGMENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|58|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|58|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|AR_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|59|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|59|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|60|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|60|INSERT|ARMCORE|AR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|61|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|61|INSERT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|62|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|62|INSERT|ARMCORE|AR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|63|DELETE|ARMCORE|SM_SEGMENT_RUN|ARMCORE|AR_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|64|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|64|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|65|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|65|UPDATE|ARMCORE|CA_COMPONENT_RUN|ARMCORE|SM_SEGMENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|66|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|AR_SCHEMA_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|66|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|67|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|AR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|67|DELETE|ARMCORE|CR_RUN_COUNT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|68|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|AR_SCHEMA_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|68|DELETE|ARMCORE|CR_SCHEMA_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|69|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|AR_RUN_COUNT_INSIGHT
+StoredProcedures|SQLAExport_Sp4.txt|69|DELETE|ARMCORE|CR_RUN_COUNT_INSIGHT|ARMCORE|CA_COMPONENT_RUN
+StoredProcedures|SQLAExport_Sp4.txt|70|DELETE|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|71|INSERT|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|ARMCORE|RT_SEGMENT_PLAN_TABLE_TRACKER
+StoredProcedures|SQLAExport_Sp4.txt|71|INSERT|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER|ARMCORE|AR_SEGMENT_PLAN_RUN
+StoredProcedures|SQLAExport_Sp4.txt|72|DELETE|ARMCORE|RT_SEGMENT_PLAN_TABLE_TRACKER|ARMCORE|AR_SEGMENT_PLAN_TABLE_TRACKER
+StoredProcedures|SQLAExport_Sp4.txt|73|INSERT|ARMCORE|CA_PRIMARY_INDEX|DBC|INDICES
+StoredProcedures|SQLAExport_Sp4.txt|73|INSERT|ARMCORE|CA_PRIMARY_INDEX|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|73|INSERT|ARMCORE|CA_PRIMARY_INDEX|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|74|UPDATE|ARMCORE|CA_PRIMARY_INDEX|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|75|DELETE|ARMCORE|CA_PRIMARY_INDEX|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|76|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|76|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|76|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|77|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|77|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|78|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|78|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|78|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|79|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|79|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|80|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|80|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|80|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|81|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|81|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|82|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|82|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|82|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|83|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|83|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|84|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|84|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|84|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|85|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|85|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|86|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|86|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|87|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|88|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|89|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|90|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|90|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|90|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|91|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|92|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|93|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|93|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|93|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|94|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|95|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|96|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|97|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|98|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|99|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|100|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|101|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|101|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|102|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|102|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|102|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|103|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|103|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|104|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|104|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|104|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|105|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|105|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|105|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|106|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|106|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|106|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|107|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|107|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|107|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|108|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|108|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|108|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|109|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|109|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|109|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|110|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|110|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|110|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|111|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|111|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|111|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|112|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|112|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|112|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|113|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|113|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|113|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|114|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|114|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|114|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|115|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|116|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|116|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|116|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|117|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|117|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|117|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|118|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|RT_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp4.txt|118|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|118|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|119|DELETE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|120|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|RT_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp4.txt|120|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|120|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|121|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp4.txt|121|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp4.txt|122|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CR_TEXT_STORAGE_DATA
+StoredProcedures|SQLAExport_Sp4.txt|122|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp4.txt|123|CREATE TABLE|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|RT_BTA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|123|CREATE TABLE|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|123|CREATE TABLE|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|124|DELETE|ARMCORE|AR_BTA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|125|INSERT|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|RT_BTA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|125|INSERT|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|125|INSERT|ARMCORE|AR_BTA_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|126|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|RT_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|126|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|126|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|127|DELETE|ARMCORE|AR_CSA_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|128|INSERT|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|RT_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|128|INSERT|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|128|INSERT|ARMCORE|AR_CSA_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|129|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT_COUNT|ARMCORE|RT_CSA_RUN_RESULT_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|129|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT_COUNT|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|130|DELETE|ARMCORE|AR_CSA_RUN_RESULT_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|131|INSERT|ARMCORE|AR_CSA_RUN_RESULT_COUNT|ARMCORE|RT_CSA_RUN_RESULT_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|131|INSERT|ARMCORE|AR_CSA_RUN_RESULT_COUNT|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|132|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|ARMCORE|RT_CSA_RUN_RESULT_TOTAL
+StoredProcedures|SQLAExport_Sp4.txt|132|CREATE TABLE|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|133|DELETE|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|134|INSERT|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|ARMCORE|RT_CSA_RUN_RESULT_TOTAL
+StoredProcedures|SQLAExport_Sp4.txt|134|INSERT|ARMCORE|AR_CSA_RUN_RESULT_TOTAL|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|135|CREATE TABLE|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|RT_PP_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|135|CREATE TABLE|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|135|CREATE TABLE|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|136|DELETE|ARMCORE|AR_PP_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|137|INSERT|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|RT_PP_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|137|INSERT|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|137|INSERT|ARMCORE|AR_PP_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|138|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|AD_ANALYSIS_RESULT_SUBMIT
+StoredProcedures|SQLAExport_Sp4.txt|138|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp4.txt|138|CREATE TABLE|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|139|DELETE|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|140|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|AD_ANALYSIS_RESULT_SUBMIT
+StoredProcedures|SQLAExport_Sp4.txt|140|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp4.txt|140|INSERT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|141|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|142|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|143|DELETE|ARMCORE|RT_ANALYSIS_RESULT_SUMMARY|ARMCORE|AR_ANALYSIS_RESULT_SUMMARY
+StoredProcedures|SQLAExport_Sp4.txt|144|DELETE|ARMCORE|RT_BTA_RUN_RESULT|ARMCORE|AR_BTA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|145|DELETE|ARMCORE|RT_CSA_RUN_RESULT|ARMCORE|AR_CSA_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|146|DELETE|ARMCORE|RT_CSA_RUN_RESULT_COUNT|ARMCORE|AR_CSA_RUN_RESULT_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|147|DELETE|ARMCORE|RT_CSA_RUN_RESULT_TOTAL|ARMCORE|AR_CSA_RUN_RESULT_TOTAL
+StoredProcedures|SQLAExport_Sp4.txt|148|DELETE|ARMCORE|RT_PP_RUN_RESULT|ARMCORE|AR_PP_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|149|DELETE|ARMCORE|AD_ANALYSIS_RESULT_SUBMIT|ARMCORE|AR_ANALYSIS_RESULT_SUBMIT
+StoredProcedures|SQLAExport_Sp4.txt|150|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|151|CREATE TABLE|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp4.txt|151|CREATE TABLE|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|151|CREATE TABLE|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|SM_SCHEMA_ELEMENT_VALUE
+StoredProcedures|SQLAExport_Sp4.txt|151|CREATE TABLE|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|MD_SCHEMA_ELEMENT
+StoredProcedures|SQLAExport_Sp4.txt|152|DELETE|ARMCORE|AR_AA_TRAINING_SCORE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|153|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp4.txt|153|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|153|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|SM_SCHEMA_ELEMENT_VALUE
+StoredProcedures|SQLAExport_Sp4.txt|153|INSERT|ARMCORE|AR_AA_TRAINING_SCORE|ARMCORE|MD_SCHEMA_ELEMENT
+StoredProcedures|SQLAExport_Sp4.txt|154|CREATE TABLE|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|154|CREATE TABLE|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|154|CREATE TABLE|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|SM_SCHEMA_ELEMENT_VALUE
+StoredProcedures|SQLAExport_Sp4.txt|154|CREATE TABLE|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|MD_SCHEMA_ELEMENT
+StoredProcedures|SQLAExport_Sp4.txt|154|CREATE TABLE|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp4.txt|154|CREATE TABLE|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AR_AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp4.txt|155|DELETE|ARMCORE|AR_AA_MODEL_TRAINING|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|156|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|156|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|156|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|SM_SCHEMA_ELEMENT_VALUE
+StoredProcedures|SQLAExport_Sp4.txt|156|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|MD_SCHEMA_ELEMENT
+StoredProcedures|SQLAExport_Sp4.txt|156|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp4.txt|156|INSERT|ARMCORE|AR_AA_MODEL_TRAINING|ARMCORE|AR_AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp4.txt|157|CREATE TABLE|ARMCORE|AR_TRAINING_SUCCESS_CRITERIA|ARMCORE|AA_TRAINING_SUCCESS_CRITERIA
+StoredProcedures|SQLAExport_Sp4.txt|157|CREATE TABLE|ARMCORE|AR_TRAINING_SUCCESS_CRITERIA|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|158|CREATE TABLE|ARMCORE|AR_AA_TRAINING_VARIABLE|ARMCORE|AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp4.txt|158|CREATE TABLE|ARMCORE|AR_AA_TRAINING_VARIABLE|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|159|DELETE|ARMCORE|AR_AA_TRAINING_VARIABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|160|INSERT|ARMCORE|AR_AA_TRAINING_VARIABLE|ARMCORE|AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp4.txt|160|INSERT|ARMCORE|AR_AA_TRAINING_VARIABLE|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|161|CREATE TABLE|ARMCORE|AR_AA_VARIABLE_CATEGORY|ARMCORE|AA_VARIABLE_CATEGORY
+StoredProcedures|SQLAExport_Sp4.txt|161|CREATE TABLE|ARMCORE|AR_AA_VARIABLE_CATEGORY|ARMCORE|AR_AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp4.txt|162|DELETE|ARMCORE|AR_AA_VARIABLE_CATEGORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|163|INSERT|ARMCORE|AR_AA_VARIABLE_CATEGORY|ARMCORE|AA_VARIABLE_CATEGORY
+StoredProcedures|SQLAExport_Sp4.txt|163|INSERT|ARMCORE|AR_AA_VARIABLE_CATEGORY|ARMCORE|AR_AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp4.txt|164|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|164|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|164|INSERT|ARMCORE|CA_SQL|ARMCORE|CA_PRIMARY_INDEX
+StoredProcedures|SQLAExport_Sp4.txt|165|DELETE|ARMCORE|AA_TRAINING_SCORE|ARMCORE|AR_AA_TRAINING_SCORE
+StoredProcedures|SQLAExport_Sp4.txt|166|DELETE|ARMCORE|AA_MODEL_TRAINING|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|167|DELETE|ARMCORE|AA_TRAINING_SUCCESS_CRITERIA|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|167|DELETE|ARMCORE|AA_TRAINING_SUCCESS_CRITERIA|ARMCORE|AR_TRAINING_SUCCESS_CRITERIA
+StoredProcedures|SQLAExport_Sp4.txt|168|DELETE|ARMCORE|AA_TRAINING_VARIABLE|ARMCORE|AR_AA_MODEL_TRAINING
+StoredProcedures|SQLAExport_Sp4.txt|168|DELETE|ARMCORE|AA_TRAINING_VARIABLE|ARMCORE|AR_AA_TRAINING_VARIABLE
+StoredProcedures|SQLAExport_Sp4.txt|169|DELETE|ARMCORE|AA_VARIABLE_CATEGORY|ARMCORE|AR_AA_VARIABLE_CATEGORY
+StoredProcedures|SQLAExport_Sp4.txt|170|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|170|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|171|DELETE|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|172|CREATE TABLE|ARMCORE|AR_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|173|DELETE|ARMCORE|AR_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|174|INSERT|ARMCORE|AR_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|174|INSERT|ARMCORE|AR_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|175|DELETE|ARMCORE|CR_RUN|ARMCORE|AR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|176|DELETE|ARMCORE|AR_JOB_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|177|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|CR_JOB_HISTORY
+StoredProcedures|SQLAExport_Sp4.txt|177|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|177|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|177|INSERT|ARMCORE|AR_JOB_HISTORY|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp4.txt|178|DELETE|ARMCORE|CR_JOB_HISTORY|ARMCORE|AR_JOB_HISTORY
+StoredProcedures|SQLAExport_Sp4.txt|179|DELETE|ARMCORE|AR_JOB|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|180|INSERT|ARMCORE|AR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp4.txt|180|INSERT|ARMCORE|AR_JOB|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|180|INSERT|ARMCORE|AR_JOB|ARMCORE|CR_JOB_HISTORY
+StoredProcedures|SQLAExport_Sp4.txt|181|DELETE|ARMCORE|CR_JOB|ARMCORE|AR_JOB
+StoredProcedures|SQLAExport_Sp4.txt|182|DELETE|ARMCORE|AR_COMMUNICATION_SUMMARY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|183|INSERT|ARMCORE|AR_COMMUNICATION_SUMMARY|ARMCORE|RT_COMMUNICATION_SUMMARY
+StoredProcedures|SQLAExport_Sp4.txt|183|INSERT|ARMCORE|AR_COMMUNICATION_SUMMARY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|184|DELETE|ARMCORE|RT_COMMUNICATION_SUMMARY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|185|CREATE TABLE|ARMCORE|AR_SA_RUN_HISTORY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|186|INSERT|ARMCORE|AR_SA_RUN_HISTORY|ARMCORE|SA_RUN_HISTORY
+StoredProcedures|SQLAExport_Sp4.txt|186|INSERT|ARMCORE|AR_SA_RUN_HISTORY|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|187|DELETE|ARMCORE|SA_RUN_HISTORY|ARMCORE|AR_SA_RUN_HISTORY
+StoredProcedures|SQLAExport_Sp4.txt|188|DELETE|ARMCORE|AR_RULE_QUERY_RUN_RESULT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|189|INSERT|ARMCORE|AR_RULE_QUERY_RUN_RESULT|ARMCORE|RT_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|189|INSERT|ARMCORE|AR_RULE_QUERY_RUN_RESULT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|189|INSERT|ARMCORE|AR_RULE_QUERY_RUN_RESULT|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|190|DELETE|ARMCORE|RT_RULE_QUERY_RUN_RESULT|ARMCORE|AR_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|191|DELETE|ARMCORE|AR_RULE_PARAMETER_VALUE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|192|INSERT|ARMCORE|AR_RULE_PARAMETER_VALUE|ARMCORE|RM_RULE_PARAMETER_VALUE
+StoredProcedures|SQLAExport_Sp4.txt|192|INSERT|ARMCORE|AR_RULE_PARAMETER_VALUE|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|192|INSERT|ARMCORE|AR_RULE_PARAMETER_VALUE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp4.txt|193|DELETE|ARMCORE|RM_RULE_PARAMETER_VALUE|ARMCORE|AR_RULE_PARAMETER_VALUE
+StoredProcedures|SQLAExport_Sp4.txt|194|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|CR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp4.txt|194|INSERT|ARMCORE|AR_TEXT_STORAGE|ARMCORE|AR_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|195|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|CR_TEXT_STORAGE_DATA
+StoredProcedures|SQLAExport_Sp4.txt|195|INSERT|ARMCORE|AR_TEXT_STORAGE_DATA|ARMCORE|AR_RULE_QUERY_RUN_RESULT
+StoredProcedures|SQLAExport_Sp4.txt|196|DELETE|ARMCORE|AR_XDS_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|197|INSERT|ARMCORE|AR_XDS_RUN|ARMCORE|DS_XDS_RUN
+StoredProcedures|SQLAExport_Sp4.txt|197|INSERT|ARMCORE|AR_XDS_RUN|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|197|INSERT|ARMCORE|AR_XDS_RUN|ARMCORE|CR_RUN
+StoredProcedures|SQLAExport_Sp4.txt|198|DELETE|ARMCORE|DS_XDS_RUN|ARMCORE|AR_XDS_RUN
+StoredProcedures|SQLAExport_Sp4.txt|199|DELETE|ARMCORE|AR_XDS_RUN_COUNT|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|200|INSERT|ARMCORE|AR_XDS_RUN_COUNT|ARMCORE|DS_XDS_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|200|INSERT|ARMCORE|AR_XDS_RUN_COUNT|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|200|INSERT|ARMCORE|AR_XDS_RUN_COUNT|ARMCORE|CR_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|201|DELETE|ARMCORE|DS_XDS_RUN_COUNT|ARMCORE|AR_XDS_RUN_COUNT
+StoredProcedures|SQLAExport_Sp4.txt|202|INSERT|ARMCORE|CA_SQL|DBC|TABLESV
+StoredProcedures|SQLAExport_Sp4.txt|202|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_XDS_END_NODE
+StoredProcedures|SQLAExport_Sp4.txt|202|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_XDS_TABLE_NODE
+StoredProcedures|SQLAExport_Sp4.txt|202|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_XDS_UPLOAD_FILE_NODE
+StoredProcedures|SQLAExport_Sp4.txt|203|INSERT|ARMCORE|CA_SQL|DBC|TABLESV
+StoredProcedures|SQLAExport_Sp4.txt|203|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|203|INSERT|ARMCORE|CA_SQL|ARMCORE|DS_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp4.txt|204|INSERT|ARMCORE|CA_SQL|DBC|TABLESV
+StoredProcedures|SQLAExport_Sp4.txt|204|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp4.txt|204|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|204|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|205|DELETE|ARMCORE|CR_TEXT_STORAGE|ARMCORE|AR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp4.txt|206|DELETE|ARMCORE|CR_TEXT_STORAGE_DATA|ARMCORE|AR_TEXT_STORAGE
+StoredProcedures|SQLAExport_Sp4.txt|207|DELETE|ARMCORE|RT_OUTPUT_HISTORY|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|208|DELETE|ARMCORE|RT_PACKAGE_COUNT|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|209|DELETE|ARMCORE|RT_COMMUNICATION|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|210|DELETE|ARMCORE|RT_COMMUNICATION_EVENT|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|211|DELETE|ARMCORE|RT_COMM_PLAN|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|212|DELETE|ARMCORE|RT_COMM_PLAN_SEGMENT|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|213|DELETE|ARMCORE|RT_STEP|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|214|DELETE|ARMCORE|RT_MESSAGE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp4.txt|215|DELETE|ARMCORE|RT_BTA_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp4.txt|216|DELETE|ARMCORE|RT_CSA_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp4.txt|217|DELETE|ARMCORE|RT_CSA_RUN_RESULT_COUNT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp4.txt|218|DELETE|ARMCORE|RT_CSA_RUN_RESULT_TOTAL|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp4.txt|219|DELETE|ARMCORE|RT_PP_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp4.txt|220|DELETE|ARMCORE|RT_PP_RUN_RESULT|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp4.txt|221|DELETE|ARMCORE|RT_ANALYSIS_RESULT_SUMMARY|ARMCORE|AD_ANALYSIS
+StoredProcedures|SQLAExport_Sp4.txt|222|DELETE|ARMCORE|DS_DATA_SOURCE_COLUMN|ARMCORE|DS_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp4.txt|223|DELETE|ARMCORE|DS_EXTERNAL_SOURCE|ARMCORE|DS_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp4.txt|224|DELETE|ARMCORE|DS_EXTERNAL_SOURCE_COLUMN|ARMCORE|DS_EXTERNAL_SOURCE
+StoredProcedures|SQLAExport_Sp4.txt|225|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|225|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|226|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|226|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp4.txt|227|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|228|INSERT|ARMCORE|CA_SQL|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp4.txt|229|INSERT|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|230|DROP|ARMCORE|CA_SQL|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|231|DROP|ARMCORE|CA_COMPONENT_RUN|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp4.txt|232|DROP|ARMCORE|CA_PRIMARY_INDEX|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp40.txt|1|CREATE TABLE|ARMCORE|CG_BORRAR|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp41.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp41.txt|1|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp41.txt|2|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCORE|CR_EXECUTION_SCHEDULE
+StoredProcedures|SQLAExport_Sp41.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|SYS_CALENDAR|CALENDAR
+StoredProcedures|SQLAExport_Sp41.txt|3|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCORE|CR_SETTING_PARAMETER
+StoredProcedures|SQLAExport_Sp41.txt|4|INSERT|ARMCORE|CR_JOB|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp41.txt|5|UPDATE|ARMCORE|CR_EXECUTION_LIST|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp42.txt|1|UPDATE|ARMCUST|CRM_AUTO_JOBID|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp42.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp42.txt|2|INSERT|ARMCORE|CR_JOB|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp42.txt|3|INSERT|ARMCORE|CR_EXECUTION_SCHEDULE|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp42.txt|4|INSERT|ARMCORE|CR_SETTING_PARAMETER|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp42.txt|5|INSERT|ARMCORE|CR_EXECUTION_LIST|ARMCUST|CRM_AUTO_JOBID
+StoredProcedures|SQLAExport_Sp42.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_EXECUTION_LIST
+StoredProcedures|SQLAExport_Sp42.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|CR_JOB
+StoredProcedures|SQLAExport_Sp42.txt|6|UPDATE|TGT|ARMCORE|ARMCUST|CRM_BATCH_CAMPAIGN
+StoredProcedures|SQLAExport_Sp42.txt|6|UPDATE|TGT|ARMCORE|ARMCORE|DS_EXTENDED_DATA_SOURCE
+StoredProcedures|SQLAExport_Sp43.txt|1|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp43.txt|2|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp43.txt|3|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp43.txt|4|INSERT|ARMCORE|CR_COMPONENT_DELETE|ARMCORE|CM_COMMUNICATION
+StoredProcedures|SQLAExport_Sp43.txt|4|INSERT|ARMCORE|CR_COMPONENT_DELETE|ARMCORE|CR_FOLDER_ENTRY
+StoredProcedures|SQLAExport_Sp43.txt|4|INSERT|ARMCORE|CR_COMPONENT_DELETE|ARMCORE|CR_FOLDER
+StoredProcedures|SQLAExport_Sp43.txt|5|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp43.txt|6|DELETE|ARMCORE|CR_FOLDER_ENTRY|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp44.txt|1|INSERT|ARMCORE|A_DROP_TBLS_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp44.txt|2|INSERT|ARMCORE|A_DROP_TBLS_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|1|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|2|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|3|DELETE|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|4|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|5|DELETE|ARMCORE|A_PURGE_RUN_TMP|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|6|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|7|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|8|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|9|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|10|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|11|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|12|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|13|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|14|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|15|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|16|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|17|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|18|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|19|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp47.txt|20|INSERT|ARMCORE|A_PURGE_RUN_COMM_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp5.txt|1|INSERT|ARMCORE|CA_PROCESS_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp6.txt|1|INSERT|ARMCORE|A_DROP_TBLS_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp6.txt|2|INSERT|ARMCORE|MD_SETTING|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp6.txt|3|INSERT|ARMCORE|A_DROP_TBLS_LOG|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp7.txt|1|DELETE|ARMCORE|CSP_LOG_TABLE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp7.txt|2|DELETE|ARMCORE|CSP_SQL_STATEMENTS|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp7.txt|3|DELETE|ARMCORE|CSP_STRUCTURE_CLAUSE|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp7.txt|4|DELETE|ARMCORE|CSP_SQL_STATEMENTS|Parámetros: No tiene condición de tabla input|Parámetros: No tiene condición de tabla input
+StoredProcedures|SQLAExport_Sp8.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp8.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp8.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
+StoredProcedures|SQLAExport_Sp9.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SCHEMA
+StoredProcedures|SQLAExport_Sp9.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_DATABASE
+StoredProcedures|SQLAExport_Sp9.txt|1|INSERT|ARMCORE|CSP_SQL_STATEMENTS|ARMCORE|MD_SETTING
