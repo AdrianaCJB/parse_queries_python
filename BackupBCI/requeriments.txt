@@ -1,0 +1,4 @@
+1. pandas 
+2. sql_metadata 
+3. giraffez
+4. sqlparse
